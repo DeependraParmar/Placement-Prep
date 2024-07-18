@@ -2,6 +2,16 @@
 #include <stack>
 using namespace std;
 
+string reverseUsingCopying(string str){
+    string ans;
+
+    for(int i=str.length()-1; i>=0; i--){
+        // ans.push_back(str[i]);  // this works too
+        ans += str[i];
+    }
+
+    return ans;
+}
 string reverseTwoPointers(string str){
     int start = 0;
     int end = str.length()-1;
@@ -37,6 +47,10 @@ int main(){
     cout << endl << endl;
 
     // string can be reverse using multiple approaches: Some of them are
+
+    // 0. Copying a string into an empty string in reverse order
+    cout << "String reversed using copying is: " << reverseUsingCopying(str) << endl;
+
     // 1. Using two-pointers for reversing
     cout << "String reversed using two-pointers: " << reverseTwoPointers(str) << endl;
 
