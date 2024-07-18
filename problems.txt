@@ -1,0 +1,86 @@
+Common Programming Interview Questions
+
+1.	How do you reverse a string?
+2.	How do you determine if a string is a palindrome?
+3.	How do you calculate the number of numerical digits in a string?
+4.	How do you find the count for the occurrence of a particular character in a string?
+5.	How do you find the non-matching characters in a string?
+6.	How do you find out if the two given strings are anagrams?
+7.	How do you calculate the number of vowels and consonants in a string?
+8.	How do you total all of the matching integer elements in an array?
+9.	How do you reverse an array?
+10.	How do you find the maximum element in an array?
+11.	How do you sort an array of integers in ascending order?
+12.	How do you print a Fibonacci sequence using recursion?
+13.	How do you calculate the sum of two integers?
+14.	How do you find the average of numbers in a list?
+15.	How do you check if an integer is even or odd?
+16.	How do you find the middle element of a linked list?
+17.	How do you remove a loop in a linked list?
+18.	How do you merge two sorted linked lists?
+19.	How do you implement binary search to find an element in a sorted array?
+20.	How do you print a binary tree in vertical order?
+21.	What is a data structure?
+22.	What is an array?
+23.	What is a linked list?
+24.	What is the difference between an array and a linked list?
+25.	What is LIFO? 
+26.	What is FIFO?
+27.	What is a stack?
+28.	What are binary trees?
+29.	What are binary search trees?
+30.	What is object-oriented programming?
+31.	What is the purpose of a loop in programming?
+32.	What is a conditional statement?
+33.	What is debugging?
+34.	What is recursion?
+35.	What are the differences between linear and non-linear data structures?
+
+
+_____________________________________________________________________________________
+
+
+1.	How can you find the first non-repeated character in a word?
+2.	How can you remove duplicates from arrays?
+3.	How can we check if a number is a prime number?
+4.	How can you check if strings contain only digits?
+5.	How can you reverse the words in a target sentence without the help of library methods?
+6.	How can you replace or remove characters from strings?
+7.	How can you append texts to files in programming languages such as Java?
+8.	How can you find the largest or smallest number in an array of integers?
+
+
+_____________________________________________________________________________________
+
+
+Coding Questions IN C
+
+•	Write the code to find the Fibonacci series upto the nth term.
+•	Write code of Greatest Common Divisor (GCD) or Highest Common Factor (HCF) of two numbers.
+•	Write code of  Perfect number
+•	Write code to Check if two strings are Anagram or not
+•	Write code Check if the given string is Palindrome or not
+•	Write code to Calculate frequency of characters in a string
+•	Write code to check if two strings match where one string contains wildcard characters
+•	Write a code for bubble sort
+•	How is the merge sort algorithm implemented?
+•	Write to code to check whether a given year is leap year or not.
+•	Find non-repeating characters in a string
+•	Write a code to replace a substring in a string.
+•	Write a code for Heap sort.
+•	Write a code to replace each element in an array by its rank in the array
+•	Write a code to find circular rotation of an array by K positions.
+•	Write a code to find non-repeating elements in an array.
+•	Write a code to check for the longest palindrome in an array.
+•	Write a code to find the factorial of a number.
+•	Write the code to for Armstrong number
+•	Write a program to find the sum of Natural Numbers using Recursion.
+•	Write a program to add Two Matrices using Multi-dimensional Array.
+•	Write a Program to Find the Sum of Natural Numbers using Recursion.
+•	Write code to check a String is palindrome or not?
+•	Write a program for Binary to Decimal to conversion
+•	Write a program to check whether a character is a vowel or consonant
+•	Write a code to find an Automorphic number
+•	Write a code to find Find the ASCII value of a character
+•	Write a code to Remove all characters from string except alphabets
+•	Write a code to find Fibonacci Series using Recursion
