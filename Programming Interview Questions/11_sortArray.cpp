@@ -49,7 +49,5 @@ int main(){
     cout << endl << "Array after sorting: ";
     printArray(arr,n);
 
-
-
     return 0;
 }
