@@ -1,7 +1,7 @@
 // Solve the problem at GeeksForGeeks: https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
 
-// Amazing problem: approach: 
-/*
+// Amazing problem: approach: Loop Detection using Floyd's Cycle Detection Algorithm.
+/*  
     1. Finding the point of intersection using Tortoise and hare algorithm.
     2. Finding the number of nodes in the loop.
     3. Reaching the same point of intersection using fast
